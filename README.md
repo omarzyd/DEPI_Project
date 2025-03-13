@@ -51,15 +51,5 @@ HR-Analytics-Project/
 - Train models for predicting employee retention.
 - Visualize insights using the Tableau dashboard.
 
-## 🤝 Contributing
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Commit changes and push to your fork.
-4. Open a pull request.
-
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 📩 Contact
-For any queries, reach out at **your-email@example.com**.
+For any queries, reach out at omarrzyd@gmail.com.
